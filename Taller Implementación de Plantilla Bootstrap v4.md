@@ -1,6 +1,6 @@
 # Taller de Integración de una plantilla Bootstrap v4
 
-- La plantilla a implementar  para la realización de esta actividad la encuentras [este repositorio de Github.](https://github.com/DesafioLatam/TallerIntegrarPlantilla/)
+- La plantilla a implementar  para la realización de esta actividad la encuentras [este repositorio de Github.](https://github.com/DesafioLatam/PlantillaBootstrap4/)
 
 ## Ejercicio:
 
