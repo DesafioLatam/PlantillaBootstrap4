@@ -33,6 +33,6 @@
 ***- El orden de los archivos en application.js y application.css importa***
 
 ***- El archivo new-age.js debe estar cargado al final de la pagina donde aplique su efecto Usando el siguiente helper <%= javascript_include_tag('new-age.min.js') %>***
-
+
   
 
